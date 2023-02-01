@@ -2,19 +2,6 @@
 
 This package is provide the admin auth, auth api and frontend of the panel.  Install the passport package.  
 
-## Register Package in Project
-
-Add the path of package repo in composer.json file
-
-```file
-"repositories": [
-    {
-        "type": "vcs",
-        "url":  "add url"
-    }
-]
-```
-
 ## Installation
 
 ```bash
@@ -39,4 +26,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[Stackup Solution](https://stackupsolutions.com/)
+[Open Source]
