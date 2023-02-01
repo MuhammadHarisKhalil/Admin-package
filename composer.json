@@ -2,7 +2,6 @@
     "name": "stackup/auth",
     "description": "Admin Panel design and backend",
     "type": "project",
-    "license": "stackup",
     "minimum-stability": "dev",
     "require": {
         "php": "^7.3|^8.0"
